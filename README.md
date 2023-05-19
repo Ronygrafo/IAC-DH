@@ -1,2 +1,2 @@
 # IAC-DH
-first practices with CloudFormation
+First practices with CloudFormation
